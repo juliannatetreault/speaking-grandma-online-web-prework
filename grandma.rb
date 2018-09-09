@@ -18,6 +18,6 @@ def speak_to_grandma(string)
   elsif string == string.downcase
     return "NOT SINCE 1938!"
   else string == string.downcase
-    return "HUH!? SPEAK UP, SONNY!"
+    return "HUH?! SPEAK UP, SONNY!"
 end
 end
