@@ -17,6 +17,6 @@ def speak_to_grandma(string)
     return "I LOVE YOU TOO PUMPKIN!"
   elsif string == ""
     return "NOT SINCE 1938!"
-  else string == ""
+  else string == "Hi, Nana. How are you?"
     return "HUH!? SPEAK UP, SONNY!"
 end
